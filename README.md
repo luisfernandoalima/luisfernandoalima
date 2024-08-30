@@ -18,7 +18,7 @@ Apaixonado por tecnologia!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
 
 ## Projetos concluídos:
-- [Portfólio](https://luisfernandoalima.github.io/portfolio/)
+- [Portfolio](https://luisfernandoalima.github.io/portfolio/)
 
 <!--
 **luisfernandoalima/luisfernandoalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
