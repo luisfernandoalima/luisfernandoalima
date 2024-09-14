@@ -6,7 +6,7 @@
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)
 
 ## Sobre mim
-Sou técnico em Desenvolvimento de Sistemas pela ETEC Jardim Ângela e, atualmente, estudo na FATEC Don Paulo Evaristo Arns.
+Sou técnico em Desenvolvimento de Sistemas pela ETEC Jardim Ângela e, atualmente, estudo na FATEC Don Paulo Evaristo Arns no curso de Análise e Desenvolvimento de Sistemas.
 
 Hoje, crio sistemas para a web como desnvolvedor front-end junior.
 
