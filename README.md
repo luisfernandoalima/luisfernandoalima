@@ -5,15 +5,25 @@
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)
 
+## Sobre mim
+Sou técnico em Desenvolvimento de Sistemas pela ETEC Jardim Ângela e, atualmente, estudo na FATEC Don Paulo Evaristo Arns.
+
+Hoje, crio sistemas para a web como desnvolvedor front-end junior.
+
 ## Principais tecnologias que utilizo
 <div style="display: inline_block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-Apaixonado por tecnologia!
+### Outra tecnologias que conheço
+<div style="display: inline_block;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
 
