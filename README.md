@@ -19,6 +19,7 @@ Apaixonado por tecnologia!
 
 ## Projetos concluídos:
 - [Portfolio](https://luisfernandoalima.github.io/portfolio/)
+- [Hub de Projetos](https://luisfernandoalima.github.io/hub-de-projetos/)
 
 <!--
 **luisfernandoalima/luisfernandoalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
