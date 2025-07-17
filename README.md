@@ -7,9 +7,31 @@
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)
 
 ## Sobre mim
-Sou técnico em Desenvolvimento de Sistemas pela ETEC Jardim Ângela e, atualmente, estudo na FATEC Don Paulo Evaristo Arns no curso de Análise e Desenvolvimento de Sistemas.
 
-Hoje, crio sistemas para a web como desenvolvedor full-stack junior.
+Sou **Desenvolvedor javascript** e apaixonado por tecnologia 🐧
+
+<hr>
+
+### Formação 
+
+**Análise e Desenvolvimento de Sistemas**
+
+Fatec Zona Sul - Dom Paulo Evaristo Arns
+
+2024 - 2026
+
+
+**Desenvolvimento de Sistemas**
+
+Etec Jardim Ângela
+
+2021 - 2023
+
+<hr>
+
+### Foco
+
+Gosto de estudas ferramentas para desenvolvimento de aplicações javascript e sistemas operacionais Linux 🐧
 
 ## Principais tecnologias que utilizo
 ### Desenvolvimento Front-End
@@ -40,12 +62,14 @@ Hoje, crio sistemas para a web como desenvolvedor full-stack junior.
 
 ### Outras tecnologias que conheço
 <div style="display: inline_block;">
-  
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
+
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
 
