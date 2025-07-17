@@ -50,8 +50,8 @@ Hoje, crio sistemas para a web como desenvolvedor full-stack junior.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
 
 ## Projetos concluídos:
-- [Portfolio](https://luisfernandoalima.github.io/portfolio/)
-- [Hub de Projetos](https://luisfernandoalima.github.io/hub-de-projetos/)
+- [Portfolio](https://dev-luis-fernando.vercel.app/)
+- [Hub de Projetos](https://luisfernandoalima.github.io/hub-de-projetos-react/)
 
 <!--
 **luisfernandoalima/luisfernandoalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
