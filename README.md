@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou **Desenvolvedor javascript** e apaixonado por tecnologia 🐧
+Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaixonado por tecnologia 🐧
 
 <hr>
 
