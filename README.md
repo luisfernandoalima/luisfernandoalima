@@ -9,32 +9,13 @@
 
 Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaixonado por tecnologia 🐧
 
-<div>
+<div style="display: inline-block; align-items: center; justify-content: center; width: 100%;">
   
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
+[![Luis's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
   
 </div>
-
-## Formação 
-
-**Análise e Desenvolvimento de Sistemas**
-
-Fatec Zona Sul - Dom Paulo Evaristo Arns
-
-2024 - 2026
-
-
-**Desenvolvimento de Sistemas**
-
-Etec Jardim Ângela
-
-2021 - 2023
-
-## Foco
-
-Gosto de estudas ferramentas para desenvolvimento de aplicações javascript e sistemas operacionais Linux 🐧
 
 # Principais tecnologias que utilizo
 ## Desenvolvimento Front-End
