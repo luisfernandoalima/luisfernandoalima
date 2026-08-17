@@ -1,18 +1,23 @@
-# Olá! Eu sou o Luis Fernando 🖖
+<h1>Olá! Eu sou o Luis Fernando 🖖</h1>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-a-43aaa2230/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.alves___/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LightningTechLab)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisfernandoalima)
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)
-
-## Sobre mim
+# Sobre mim
 
 Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaixonado por tecnologia 🐧
 
-<hr>
+<div>
+  
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
+  
+</div>
 
-### Formação 
+## Formação 
 
 **Análise e Desenvolvimento de Sistemas**
 
@@ -27,14 +32,12 @@ Etec Jardim Ângela
 
 2021 - 2023
 
-<hr>
-
-### Foco
+## Foco
 
 Gosto de estudas ferramentas para desenvolvimento de aplicações javascript e sistemas operacionais Linux 🐧
 
-## Principais tecnologias que utilizo
-### Desenvolvimento Front-End
+# Principais tecnologias que utilizo
+## Desenvolvimento Front-End
 <div style="display: inline_block;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -44,9 +47,13 @@ Gosto de estudas ferramentas para desenvolvimento de aplicações javascript e s
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/Nuxt-%23002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82"/>
+    <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF"/>
 </div>
 
-### Desenvolvimento Back-End
+## Desenvolvimento Back-End
 <div style="display: inline_block;">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -54,15 +61,18 @@ Gosto de estudas ferramentas para desenvolvimento de aplicações javascript e s
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
 
-### Banco de Dados
+## Banco de Dados
 <div style="display: inline_block;">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-### Outras tecnologias que conheço
+## Outras tecnologias que conheço
 <div style="display: inline_block;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -71,9 +81,9 @@ Gosto de estudas ferramentas para desenvolvimento de aplicações javascript e s
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
 
-## Projetos concluídos:
+
+# Projetos concluídos:
 - [Portfolio](https://dev-luis-fernando.vercel.app/)
 - [Hub de Projetos](https://luisfernandoalima.github.io/hub-de-projetos-react/)
 
