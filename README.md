@@ -5,7 +5,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LightningTechLab)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisfernandoalima)
 
-# Sobre mim
+## Sobre mim
 
 Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaixonado por tecnologia 🐧
 
@@ -18,8 +18,8 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
 
 <br/>
 
-# Principais tecnologias que utilizo
-## Desenvolvimento Front-End
+## Principais tecnologias que utilizo
+### Desenvolvimento Front-End
 <div style="display: inline_block;">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -35,7 +35,7 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
   <img alt="Tauri" src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF"/>
 </div>
 
-## Desenvolvimento Back-End
+### Desenvolvimento Back-End
 <div style="display: inline_block;">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -43,14 +43,14 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
 
-## Banco de Dados
+### Banco de Dados
 <div style="display: inline_block;">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-## Outras tecnologias que conheço
+### Outras tecnologias que conheço
 <div style="display: inline_block;">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Arch Linux" src="https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white">
@@ -64,7 +64,7 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
 
 </br>
 
-# Projetos concluídos:
+## Principais Projetos:
 <table>
   <thead>
     <tr>
