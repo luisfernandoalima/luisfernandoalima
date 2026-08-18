@@ -57,6 +57,7 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
   <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
