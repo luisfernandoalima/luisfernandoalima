@@ -63,20 +63,29 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
 </br>
 
 # Projetos concluídos:
-- [Portfolio](https://dev-luis-fernando.vercel.app/)
-- [Hub de Projetos](https://luisfernandoalima.github.io/hub-de-projetos-react/)
-
-<!--
-**luisfernandoalima/luisfernandoalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Data</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><a href="https://github.com/luisfernandoalima/tsuru-editora">Tsuru-Editora</a></td>     
+      <td>2026</td>
+      <td><img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://dev-luis-fernando.vercel.app/">Portfolio</a></td>   
+      <td>02-2025</td>
+      <td><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://luisfernandoalima.github.io/hub-de-projetos-react/">Hub de Projetos</a></td>
+        <td>12-2024</td>
+      <td><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" /></td>
+    </tr>
+  </tbody>
+</table>
