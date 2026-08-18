@@ -89,5 +89,15 @@ Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaix
         <td>12-2024</td>
       <td><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/luisfernandoalima/MyNotes">MyNotes</a></td>
+        <td>12-2024</td>
+      <td><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/luisfernandoalima/CyberBurguer">CyberBurguer</a></td>
+        <td>12-2023</td>
+      <td><img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen" /></td>
+    </tr>
   </tbody>
 </table>
