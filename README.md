@@ -9,13 +9,14 @@
 
 Sou **Desenvolvedor javascript**, **Estagiário em Gestão de Projetos** e apaixonado por tecnologia 🐧
 
-<div style="display: inline-block; align-items: center; justify-content: center; width: 100%;">
-  
-[![Luis's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia)](https://github.com/stats-organization/github-stats-extended)
+<br/>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia)
-  
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=luisfernandoalima&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisfernandoalima&layout=compact&show_icons=true&theme=algolia"/>
 </div>
+
+<br/>
 
 # Principais tecnologias que utilizo
 ## Desenvolvimento Front-End
